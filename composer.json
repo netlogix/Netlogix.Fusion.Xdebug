@@ -1,0 +1,20 @@
+{
+    "name": "netlogix/fusion-xdebug",
+    "description": "Neos Fusion Prototype that calls \"xdebug_break()\"",
+    "type": "neos-plugin",
+    "require": {
+        "neos/flow": "^6.3 || ^7.3",
+        "neos/fusion": "^6.3 || ^7.3",
+        "ext-xdebug": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Netlogix\\Fusion\\Xdebug\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Netlogix.Fusion.Xdebug"
+        }
+    }
+}

@@ -1,0 +1,4 @@
+prototype(Netlogix.Fusion.Xdebug:Break) {
+    @class = 'Netlogix\\Fusion\\Xdebug\\Fusion\\BreakImplementation'
+    value = ${value}
+}
