@@ -2,6 +2,7 @@
     "name": "netlogix/fusion-xdebug",
     "description": "Neos Fusion Prototype that calls \"xdebug_break()\"",
     "type": "neos-plugin",
+    "license": "MIT",
     "require": {
         "neos/flow": "^6.3 || ^7.3",
         "neos/fusion": "^6.3 || ^7.3",
