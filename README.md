@@ -51,3 +51,5 @@ prototype(Foo) < prototype(Neos.Fusion:Component) {
 Prior to the breakpoint, the following variables are declared:
 * `$context`: contains the current Fusion context available to the prototype
 * `$data`: contains the data passed to the prototype
+
+![phpstorm-debugger](https://user-images.githubusercontent.com/15905038/157396389-dce4ee59-ee36-43c8-a4c8-421f88334336.jpeg)
