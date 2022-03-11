@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "neos/flow": "^6.3 || ^7.3",
-        "neos/fusion": "^6.3 || ^7.3",
+        "neos/fusion": "^5.3 || ^7.3",
         "ext-xdebug": "*"
     },
     "autoload": {
