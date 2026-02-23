@@ -4,8 +4,8 @@
     "type": "neos-plugin",
     "license": "MIT",
     "require": {
-        "neos/flow": "^6.3 || ^7.3",
-        "neos/fusion": "^5.3 || ^7.3",
+        "neos/flow": "^6.3 || ^7.3 || ^8.3",
+        "neos/fusion": "^5.3 || ^7.3 || ^8.3",
         "ext-xdebug": "*"
     },
     "autoload": {
